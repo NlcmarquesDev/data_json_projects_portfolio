@@ -1,0 +1,68 @@
+[
+  {
+    "projectId": "1",
+    "title": "Ecommerce Project",
+    "description": "ss",
+    "logo": " ",
+    "imageProject": "",
+    "stacks": ["Laravel", "Bootstrap", "MySql", "Javascriprt", "HTML", "CSS"],
+    "icons": "",
+    "link": "https://ecommerce.nunomarquesdev.com/",
+    "githubUrl": "https://github.com/NlcmarquesDev/finalproject_ecommerce"
+  },
+  {
+    "projectId": "2",
+    "title": "Mini Trello Edition",
+    "description": "Welcome to Trello Clone Edition, a project inspired by the popular project management tool, Trello. This simple yet powerful application allows you to organize your tasks, projects, and ideas on digital boards, bringing efficiency and collaboration to your workflow.",
+    "logo": " ",
+    "imageProject": [
+      "https://raw.githubusercontent.com/NlcmarquesDev/trello_mini_edition/main/src/assets/images/trello-front.png"
+    ],
+    "stacks": ["Vue", "Bootstrap", "Javascript", "HTML", "CSS"],
+    "icons": ["Vue", "", "", ""],
+    "link": "https://trello.nunomarquesdev.com/",
+    "githubUrl": "https://github.com/NlcmarquesDev/trello_mini_edition"
+  },
+  {
+    "projectId": "3",
+    "title": "Notes App Project",
+    "description": "ss",
+    "logo": " ",
+    "imageProject": "",
+    "stacks": [
+      "Vue",
+      "Bootstrap",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "MongoDB",
+      "Node",
+      "Express"
+    ],
+    "icons": "",
+    "link": "",
+    "githubUrl": ""
+  },
+  {
+    "projectId": "4",
+    "title": "Aggie Dolls",
+    "description": "ss",
+    "logo": " ",
+    "imageProject": "",
+    "stacks": ["PHP", "Wordpress", "MySql"],
+    "icons": "",
+    "link": "",
+    "githubUrl": ""
+  },
+  {
+    "projectId": "",
+    "title": "Ecommerce Project",
+    "description": "ss",
+    "logo": " ",
+    "imageProject": "",
+    "stacks": "",
+    "icons": "",
+    "link": "",
+    "githubUrl": ""
+  }
+]
